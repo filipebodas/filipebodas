@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filipebodas
 - 👀 I’m interested in Data Analysis and Karate!
-- 🌱 I’m currently learning Machine Learning Zoomcamp by Alexey Grigorev
+- 🌱 I’m currently learning CS50x by Havard
 - 📫 How to reach me https://www.linkedin.com/in/filipebodas/
 
 <!---
